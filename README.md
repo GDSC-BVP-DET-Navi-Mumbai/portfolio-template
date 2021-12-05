@@ -29,7 +29,6 @@ React is a JavaScript library created for building fast and interactive user int
 ### Perks
 
     Develop a personal minimal portfolio website
-    Hands on to ReactJS
     Certificate of Participation
 
 
